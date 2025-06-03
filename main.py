@@ -11,8 +11,8 @@ from alpaca_trade_api.rest import TimeFrame
 
 logger = logging.getLogger()
 
-ALPACA_API_KEY = "<key_id>"
-ALPACA_SECRET_KEY = "<secret_key>"
+ALPACA_API_KEY = "PK43ARO9YOJRJT955N3Z"
+ALPACA_SECRET_KEY = "VfbVRLOsZKh9bkIwvyziWzXiIQZHAsxYhEcrI6Lm"
 
 
 class ScalpAlgo:
